@@ -1,4 +1,4 @@
 # 1521
-Relevant files:
-chicken/chicken.c
-minesweeper/minesweeper.s
+Relevant files:  
+chicken/chicken.c  
+minesweeper/minesweeper.s  
